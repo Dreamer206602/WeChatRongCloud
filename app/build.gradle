@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.booboomx.wechatrongcloud"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        multiDexEnabled true
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+    lintOptions {
+        checkReleaseBuilds false
+
+        abortOnError false
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    testCompile 'junit:junit:4.12'
+    compile project(':CallKit')
+    compile project(':CallLib')
+    compile project(':IMKit')
+    compile project(':Recognizer')
+    compile project(':RedPacket')
+    compile project(':Sticker')
+
+
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.facebook.stetho:stetho:1.4.1'
+}
+
+

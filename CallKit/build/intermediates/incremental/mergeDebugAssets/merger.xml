@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/src/main/assets"/><source path="/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/src/debug/assets"/></dataSet></merger>

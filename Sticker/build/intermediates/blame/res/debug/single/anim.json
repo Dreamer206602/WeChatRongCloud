@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/debug/anim/bqmm_slide_out_to_right.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/src/main/res/anim/bqmm_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/debug/anim/bqmm_slide_in_from_right.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/src/main/res/anim/bqmm_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/debug/anim/bqmm_slide_out_to_left.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/src/main/res/anim/bqmm_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/debug/anim/bqmm_slide_in_from_left.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/src/main/res/anim/bqmm_slide_in_from_left.xml"
+    }
+]

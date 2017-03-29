@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/bqmm_message_view_right.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/bqmm_message_view_right.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/bqmm_message_view_left.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/bqmm_message_view_left.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/bqmm_item_face.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/bqmm_item_face.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/bqmm_keyboard_tab.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/bqmm_keyboard_tab.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/bqmm_item_emoji.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/bqmm_item_emoji.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/res/merged/androidTest/debug/layout/item_emoji_message.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Sticker/build/intermediates/bundles/debug/res/layout/item_emoji_message.xml"
+    }
+]

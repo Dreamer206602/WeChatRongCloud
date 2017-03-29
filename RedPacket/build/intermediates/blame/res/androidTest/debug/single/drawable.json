@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/dialog_background.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_item.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_item.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_cb_protocol.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_cb_protocol.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_red_click_round.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_red_click_round.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_checked.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_checked.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_white_round_stroke.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_white_round_stroke.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_progress_medium_holo.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/dialog_paytype_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/dialog_paytype_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_round_white.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_round_white.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_normal_item_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_click_item_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_click_item_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_gray_round.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_gray_round.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_white_round.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_white_round.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_code_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_code_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/round_spinner_fade.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/round_spinner_fade.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_bribery_open.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_bribery_open.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_round_btn.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_round_btn.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_common_btn.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_common_btn.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_bg_red_round.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_bg_red_round.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_normal_round_btn_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_normal_round_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/open_rp_anim.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/open_rp_anim.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/bg_gray_round.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/bg_gray_round.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_click_round_btn_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_click_round_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_default_avatar.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_default_avatar.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_hongbao.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_hongbao.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/shape_unbind.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/shape_unbind.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_forget_pwd.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_forget_pwd.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/selector_cursor.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/selector_cursor.xml"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable/_common_progress_bg.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable/_common_progress_bg.xml"
+    }
+]
