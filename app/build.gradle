@@ -48,10 +48,9 @@ dependencies {
     compile project(':Recognizer')
     compile project(':RedPacket')
     compile project(':Sticker')
-
-
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.facebook.stetho:stetho:1.4.1'
+    compile 'com.jakewharton:butterknife:7.0.1'
 }
 
 

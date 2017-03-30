@@ -40,6 +40,10 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_top_back.png"
     },
     {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_close.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_close.png"
+    },
+    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_spinner_16_inner_holo.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_spinner_16_inner_holo.png"
     },
@@ -48,16 +52,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/rmb.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_close.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_close.png"
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/top_back.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/top_back.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_default_portrait.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/rc_default_portrait.png"
-    },
-    {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/top_back.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/top_back.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp.png",
@@ -92,12 +92,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_point.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_pswd.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_bg_pswd.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bank_setting.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bank_setting.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_pswd.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_bg_pswd.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bg_search_input.9.png",
@@ -116,12 +116,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/trade_detail.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/crown.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/crown.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_header.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_header.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/crown.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/crown.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_from_hongbao.png",
@@ -160,12 +160,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_304.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_close.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_ic_close.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/round_spinner_fade_06.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/round_spinner_fade_06.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_close.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_ic_close.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_card.png",
@@ -180,16 +180,16 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_ic_case.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_arrow.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_arrow.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/not_trade.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/not_trade.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/failure.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/failure.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_arrow.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_arrow.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_1.png",
@@ -228,16 +228,16 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_403.png"
     },
     {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_check_not.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_check_not.png"
+    },
+    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_btn_white.9.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_btn_white.9.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/btn_close.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/btn_close.png"
-    },
-    {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_check_not.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_check_not.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_arrow.png",
@@ -312,12 +312,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_btn_exit.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_2.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_2.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/account_info.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/account_info.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_2.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_2.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_to_hongbao.png",

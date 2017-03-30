@@ -52,12 +52,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_btn_pub_service_enter_hover.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_menu_keyboard_hover.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_menu_keyboard_hover.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_btn_open_file_selected.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_btn_open_file_selected.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_menu_keyboard_hover.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_menu_keyboard_hover.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_receive_voice_one.png",

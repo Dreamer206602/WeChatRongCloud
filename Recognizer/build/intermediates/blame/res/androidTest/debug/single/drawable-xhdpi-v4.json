@@ -244,12 +244,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_cs_button_bg_hover.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_bg_toast.9.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_bg_toast.9.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_ext_voice_btn_normal.9.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_ext_voice_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_bg_toast.9.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_bg_toast.9.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_cs_group_ok_normal.png",
@@ -332,12 +332,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f616.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_conversation_list_empty.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_conversation_list_empty.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/u1f635.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f635.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_conversation_list_empty.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_conversation_list_empty.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_conversation_newmsg.png",
@@ -356,12 +356,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_file_icon_cancel.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_cs_group_cancel_pressed.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_cs_group_cancel_pressed.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/u1f4de.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f4de.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_cs_group_cancel_pressed.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_cs_group_cancel_pressed.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_ic_bubble_no_left.9.png",
@@ -1084,12 +1084,12 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f525.png"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/u1f3b2.png",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f3b2.png"
-    },
-    {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rc_unread_remind_without_count.png",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/rc_unread_remind_without_count.png"
+    },
+    {
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/u1f3b2.png",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable-xhdpi-v4/u1f3b2.png"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/Recognizer/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/u1f484.png",

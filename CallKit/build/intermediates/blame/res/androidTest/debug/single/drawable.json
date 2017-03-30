@@ -108,16 +108,16 @@
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_cs_submit_comment.xml"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_voice_toggle_selector.xml",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_voice_toggle_selector.xml"
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_send.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_btn_send.xml"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_notification_connecting_animated.xml",
         "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_notification_connecting_animated.xml"
     },
     {
-        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_send.xml",
-        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_btn_send.xml"
+        "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_voice_toggle_selector.xml",
+        "source": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/exploded-aar/WeChatRongCloud/IMKit/unspecified/res/drawable/rc_voice_toggle_selector.xml"
     },
     {
         "merged": "/Users/booboomx/Android/As_Wechat/WeChatRongCloud/CallKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_cs_back_selector.xml",
