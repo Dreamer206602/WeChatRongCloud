@@ -42,11 +42,16 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.1'
     testCompile 'junit:junit:4.12'
-    compile project(':CallKit')
-    compile project(':CallLib')
-    compile project(':IMKit')
-    compile project(':Recognizer')
-    compile project(':RedPacket')
+    compile 'cn.rongcloud.android:IMLib:2.8.6'
+    compile 'cn.rongcloud.android:IMKit:2.8.6'
+    compile 'cn.rongcloud.android:CallLib:2.8.6'
+    compile 'cn.rongcloud.android:CallKit:2.8.6'
+    compile 'cn.rongcloud.android:RedPacket:2.8.6'
+//    compile project(':CallKit')
+//    compile project(':CallLib')
+//    compile project(':IMKit')
+//    compile project(':Recognizer')
+//    compile project(':RedPacket')
     compile project(':Sticker')
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.facebook.stetho:stetho:1.4.1'
